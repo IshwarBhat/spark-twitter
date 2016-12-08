@@ -1,0 +1,414 @@
+{
+  "contributors": null,
+  "truncated": false,
+  "text": "RT https://t.co/AF8c6fgfS3 Apple, Microsoft Announce Their Black Friday Deals https://t.co/amB0XZZ7sg #gadgets #\u2026 https://t.co/yUv1OBj9rb",
+  "is_quote_status": true,
+  "in_reply_to_status_id": null,
+  "id": 805609686619799553,
+  "favorite_count": 0,
+  "entities": {
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          102,
+          110
+        ],
+        "text": "gadgets"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/AF8c6fgfS3",
+        "indices": [
+          3,
+          26
+        ],
+        "expanded_url": "https://twitter.com/CocoGadgets/status/805592841619550208",
+        "display_url": "twitter.com/CocoGadgets/st\u2026"
+      },
+      {
+        "url": "https://t.co/amB0XZZ7sg",
+        "indices": [
+          78,
+          101
+        ],
+        "expanded_url": "https://goo.gl/XhhxyW",
+        "display_url": "goo.gl/XhhxyW"
+      }
+    ],
+    "media": [
+      {
+        "source_user_id": 756850035632009216,
+        "source_status_id_str": "805592841619550208",
+        "expanded_url": "https://twitter.com/CocoGadgets/status/805592841619550208/photo/1",
+        "display_url": "pic.twitter.com/yUv1OBj9rb",
+        "url": "https://t.co/yUv1OBj9rb",
+        "media_url_https": "https://pbs.twimg.com/media/Cy4KawTUsAAmbzE.jpg",
+        "source_user_id_str": "756850035632009216",
+        "source_status_id": 805592841619550208,
+        "id_str": "805592838104723456",
+        "sizes": {
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "large": {
+            "h": 450,
+            "resize": "fit",
+            "w": 800
+          },
+          "medium": {
+            "h": 450,
+            "resize": "fit",
+            "w": 800
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [
+          114,
+          137
+        ],
+        "type": "photo",
+        "id": 805592838104723456,
+        "media_url": "http://pbs.twimg.com/media/Cy4KawTUsAAmbzE.jpg"
+      }
+    ]
+  },
+  "quoted_status_id": 805592841619550208,
+  "retweeted": false,
+  "coordinates": null,
+  "quoted_status": {
+    "contributors": null,
+    "truncated": false,
+    "text": "Apple, Microsoft Announce Their Black Friday Deals https://t.co/xDNJHypz8K #gadgets #tech #news https://t.co/tI7LljF8SQ",
+    "is_quote_status": false,
+    "in_reply_to_status_id": null,
+    "id": 805592841619550208,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            75,
+            83
+          ],
+          "text": "gadgets"
+        },
+        {
+          "indices": [
+            84,
+            89
+          ],
+          "text": "tech"
+        },
+        {
+          "indices": [
+            90,
+            95
+          ],
+          "text": "news"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xDNJHypz8K",
+          "indices": [
+            51,
+            74
+          ],
+          "expanded_url": "https://goo.gl/XhhxyW",
+          "display_url": "goo.gl/XhhxyW"
+        }
+      ],
+      "media": [
+        {
+          "expanded_url": "https://twitter.com/CocoGadgets/status/805592841619550208/photo/1",
+          "display_url": "pic.twitter.com/tI7LljF8SQ",
+          "url": "https://t.co/tI7LljF8SQ",
+          "media_url_https": "https://pbs.twimg.com/media/Cy4KawTUsAAmbzE.jpg",
+          "id_str": "805592838104723456",
+          "sizes": {
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "large": {
+              "h": 450,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 800
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [
+            96,
+            119
+          ],
+          "type": "photo",
+          "id": 805592838104723456,
+          "media_url": "http://pbs.twimg.com/media/Cy4KawTUsAAmbzE.jpg"
+        }
+      ]
+    },
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 0,
+    "id_str": "805592841619550208",
+    "favorited": false,
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": false,
+      "profile_use_background_image": false,
+      "default_profile_image": false,
+      "id": 756850035632009216,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "000000",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/758326700606427136/8EZh8Kb2_normal.jpg",
+      "profile_sidebar_fill_color": "000000",
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "followers_count": 87779,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "756850035632009216",
+      "profile_background_color": "000000",
+      "listed_count": 63,
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 1926,
+      "description": "",
+      "friends_count": 10,
+      "location": "",
+      "profile_link_color": "1B95E0",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/758326700606427136/8EZh8Kb2_normal.jpg",
+      "following": false,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/756850035632009216/1469634128",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "screen_name": "CocoGadgets",
+      "lang": "nl",
+      "profile_background_tile": false,
+      "favourites_count": 1,
+      "name": "CocoGadgetsDeals",
+      "notifications": false,
+      "url": null,
+      "created_at": "Sat Jul 23 13:54:45 +0000 2016",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Dec 05 02:01:15 +0000 2016",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://twitter.com/CocoGadgets/status/805592841619550208/photo/1",
+          "display_url": "pic.twitter.com/tI7LljF8SQ",
+          "url": "https://t.co/tI7LljF8SQ",
+          "media_url_https": "https://pbs.twimg.com/media/Cy4KawTUsAAmbzE.jpg",
+          "id_str": "805592838104723456",
+          "sizes": {
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "large": {
+              "h": 450,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 800
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [
+            96,
+            119
+          ],
+          "type": "photo",
+          "id": 805592838104723456,
+          "media_url": "http://pbs.twimg.com/media/Cy4KawTUsAAmbzE.jpg"
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  },
+  "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_user_id": null,
+  "retweet_count": 0,
+  "id_str": "805609686619799553",
+  "favorited": false,
+  "user": {
+    "follow_request_sent": false,
+    "has_extended_profile": true,
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "id": 777774473797742595,
+    "profile_background_image_url_https": null,
+    "verified": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/777779738651742208/IFnt6mrb_normal.jpg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/bg0KLl329U",
+            "indices": [
+              0,
+              23
+            ],
+            "expanded_url": "https://gadgetsourceusa.myshopify.com/",
+            "display_url": "gadgetsourceusa.myshopify.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "followers_count": 157,
+    "profile_sidebar_border_color": "C0DEED",
+    "id_str": "777774473797742595",
+    "profile_background_color": "F5F8FA",
+    "listed_count": 600,
+    "is_translation_enabled": false,
+    "utc_offset": null,
+    "statuses_count": 24414,
+    "description": "I am an IT specialist with wide experience in system design and management. I lived in Washington and currently own a e-business.",
+    "friends_count": 6,
+    "location": "Washington, USA",
+    "profile_link_color": "1DA1F2",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/777779738651742208/IFnt6mrb_normal.jpg",
+    "following": false,
+    "geo_enabled": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/777774473797742595/1474272222",
+    "profile_background_image_url": null,
+    "screen_name": "Peterlmay01L",
+    "lang": "en",
+    "profile_background_tile": false,
+    "favourites_count": 3,
+    "name": "Peter L. May",
+    "notifications": false,
+    "url": "https://t.co/bg0KLl329U",
+    "created_at": "Mon Sep 19 07:40:59 +0000 2016",
+    "contributors_enabled": false,
+    "time_zone": null,
+    "protected": false,
+    "default_profile": true,
+    "is_translator": false
+  },
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "possibly_sensitive": false,
+  "lang": "en",
+  "created_at": "Mon Dec 05 03:08:11 +0000 2016",
+  "quoted_status_id_str": "805592841619550208",
+  "in_reply_to_status_id_str": null,
+  "place": null,
+  "extended_entities": {
+    "media": [
+      {
+        "source_user_id": 756850035632009216,
+        "source_status_id_str": "805592841619550208",
+        "expanded_url": "https://twitter.com/CocoGadgets/status/805592841619550208/photo/1",
+        "display_url": "pic.twitter.com/yUv1OBj9rb",
+        "url": "https://t.co/yUv1OBj9rb",
+        "media_url_https": "https://pbs.twimg.com/media/Cy4KawTUsAAmbzE.jpg",
+        "source_user_id_str": "756850035632009216",
+        "source_status_id": 805592841619550208,
+        "id_str": "805592838104723456",
+        "sizes": {
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "large": {
+            "h": 450,
+            "resize": "fit",
+            "w": 800
+          },
+          "medium": {
+            "h": 450,
+            "resize": "fit",
+            "w": 800
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [
+          114,
+          137
+        ],
+        "type": "photo",
+        "id": 805592838104723456,
+        "media_url": "http://pbs.twimg.com/media/Cy4KawTUsAAmbzE.jpg"
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  }
+}
