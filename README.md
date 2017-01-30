@@ -194,3 +194,9 @@ Steps:
 ![alt tag](https://raw.githubusercontent.com/IshwarBhat/spark-twitter/master/assets/13.png)
 
 _Figure 13: Hashtag vs Count bar plot_
+
+### Future work
+
+We could implement a word cloud in addition to the bar plot, depicting the popularity of hashtags. This is a work in progress.
+
+Thank you for reading!
